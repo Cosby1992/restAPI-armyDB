@@ -1,0 +1,161 @@
+[{
+    "id": 1,
+    "cover_name": "Hatity",
+    "type": "Pigeon, feral rock",
+    "scientific_name": "Columba livia",
+    "gender": "Male",
+    "color": "Indigo",
+    "kia": true
+  }, {
+    "id": 2,
+    "cover_name": "Stim",
+    "type": "Emu",
+    "scientific_name": "Dromaeus novaehollandiae",
+    "gender": "Male",
+    "color": "Purple",
+    "kia": true
+  }, {
+    "id": 3,
+    "cover_name": "Bytecard",
+    "type": "Monkey, bleeding heart",
+    "scientific_name": "Theropithecus gelada",
+    "gender": "Female",
+    "color": "Aquamarine",
+    "kia": true
+  }, {
+    "id": 4,
+    "cover_name": "Voltsillam",
+    "type": "Wallaroo, common",
+    "scientific_name": "Macropus robustus",
+    "gender": "Female",
+    "color": "Pink",
+    "kia": false
+  }, {
+    "id": 5,
+    "cover_name": "Solarbreeze",
+    "type": "Rhea, common",
+    "scientific_name": "Rhea americana",
+    "gender": "Female",
+    "color": "Fuscia",
+    "kia": false
+  }, {
+    "id": 6,
+    "cover_name": "Konklux",
+    "type": "Lemur, ring-tailed",
+    "scientific_name": "Lemur catta",
+    "gender": "Female",
+    "color": "Fuscia",
+    "kia": false
+  }, {
+    "id": 7,
+    "cover_name": "Konklux",
+    "type": "Long-necked turtle",
+    "scientific_name": "Chelodina longicollis",
+    "gender": "Male",
+    "color": "Green",
+    "kia": false
+  }, {
+    "id": 8,
+    "cover_name": "Flowdesk",
+    "type": "Long-crested hawk eagle",
+    "scientific_name": "Lophoaetus occipitalis",
+    "gender": "Male",
+    "color": "Orange",
+    "kia": true
+  }, {
+    "id": 9,
+    "cover_name": "Stronghold",
+    "type": "Yellow-necked spurfowl",
+    "scientific_name": "Francolinus leucoscepus",
+    "gender": "Female",
+    "color": "Red",
+    "kia": true
+  }, {
+    "id": 10,
+    "cover_name": "Keylex",
+    "type": "Little brown dove",
+    "scientific_name": "Streptopelia senegalensis",
+    "gender": "Female",
+    "color": "Crimson",
+    "kia": false
+  }, {
+    "id": 11,
+    "cover_name": "Sub-Ex",
+    "type": "Tapir, brazilian",
+    "scientific_name": "Tapirus terrestris",
+    "gender": "Male",
+    "color": "Teal",
+    "kia": true
+  }, {
+    "id": 12,
+    "cover_name": "Tres-Zap",
+    "type": "Fox, savanna",
+    "scientific_name": "Dusicyon thous",
+    "gender": "Female",
+    "color": "Orange",
+    "kia": false
+  }, {
+    "id": 13,
+    "cover_name": "Ronstring",
+    "type": "Southern brown bandicoot",
+    "scientific_name": "Isoodon obesulus",
+    "gender": "Male",
+    "color": "Yellow",
+    "kia": false
+  }, {
+    "id": 14,
+    "cover_name": "Home Ing",
+    "type": "Yellow baboon",
+    "scientific_name": "Papio cynocephalus",
+    "gender": "Female",
+    "color": "Green",
+    "kia": false
+  }, {
+    "id": 15,
+    "cover_name": "Otcom",
+    "type": "Cardinal, black-throated",
+    "scientific_name": "Paroaria gularis",
+    "gender": "Male",
+    "color": "Yellow",
+    "kia": false
+  }, {
+    "id": 16,
+    "cover_name": "Kanlam",
+    "type": "Barrows goldeneye",
+    "scientific_name": "Bucephala clangula",
+    "gender": "Male",
+    "color": "Purple",
+    "kia": true
+  }, {
+    "id": 17,
+    "cover_name": "Pannier",
+    "type": "Gerbil (unidentified)",
+    "scientific_name": "Gerbillus sp.",
+    "gender": "Male",
+    "color": "Teal",
+    "kia": false
+  }, {
+    "id": 18,
+    "cover_name": "Matsoft",
+    "type": "Roan antelope",
+    "scientific_name": "Hippotragus equinus",
+    "gender": "Male",
+    "color": "Goldenrod",
+    "kia": true
+  }, {
+    "id": 19,
+    "cover_name": "Sonair",
+    "type": "Southern sea lion",
+    "scientific_name": "Otaria flavescens",
+    "gender": "Male",
+    "color": "Turquoise",
+    "kia": false
+  }, {
+    "id": 20,
+    "cover_name": "Span",
+    "type": "Griffon vulture",
+    "scientific_name": "Gyps fulvus",
+    "gender": "Male",
+    "color": "Violet",
+    "kia": true
+  }]
